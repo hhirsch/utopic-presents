@@ -4,9 +4,6 @@
 ## Médecins Sans Frontières
 - http://www.msf.org/
 
-## Bruce Lee Foundation
-- https://bruceleefoundation.org/donate/
-
 ## Tibetan Nuns Project
 - https://tnp.org/products/
 - **Gift a Donation** https://tnp.org/product/tribute-cards/
